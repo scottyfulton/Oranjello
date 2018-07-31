@@ -1,0 +1,85 @@
+<!DOCTYPE HTML>
+<!--
+	Linear by TEMPLATED
+    templated.co @templatedco
+    Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+    
+   Implemented and modified by Scotty Fulton on 8/8/2017
+-->
+<html>
+	<head>
+		<title>Oranjello.net</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<link href='http://fonts.googleapis.com/css?family=Roboto:400,100,300,700,500,900' rel='stylesheet' type='text/css'>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-panels.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel-noscript.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-desktop.css" />
+		</noscript>
+	</head>
+	<body class="homepage">
+
+	<!-- Header -->
+		<div id="header">
+			<div id="nav-wrapper"> 
+				<!-- Nav -->
+				<nav id="nav">
+					<ul>
+						<li class="active"><a href="index.html">Homepage</a></li>
+
+					</ul>
+				</nav>
+			</div>
+			<div class="container"> 
+				
+				<!-- Logo -->
+				<div id="logo">
+					<h1><a href="#">In a world of Oranjello...</a></h1>
+					<span text-color:777>by The Fultonium Design</span>
+				</div>
+			</div>
+		</div>
+
+	<!-- Featured -->
+		<div id="featured">
+			<div class="container">
+				<header>
+					<h2>Giftstavaganza 2017</h2>
+					<a href="signIn.html" class="button button-style1">Sign In</a>
+				</header>
+				
+				<hr />
+				<div class="row">
+
+				</div>
+			</div>
+		</div>
+
+	<!-- Main -->
+
+	<!-- Tweet -->
+		<div id="tweet">
+			<div class="container">
+				<section>
+					<blockquote>&ldquo;I have a pen, I have pineapple... Uh! Pineapple-Pen!&rdquo;</blockquote>
+				</section>
+			</div>
+		</div>
+
+	<!-- Footer -->
+		
+	<!-- Copyright -->
+		<div id="copyright">
+			<div class="container">
+				<a href="http://oranjello.net">Implemented by The Fultonium Design</a>
+			</div>
+		</div>
+
+	</body>
+</html>
